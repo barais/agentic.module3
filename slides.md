@@ -70,7 +70,7 @@ graph LR
 </div>
 
 ---
-layout: two-cols
+layout: two-cols-header
 ---
 
 # 2. Le Cerveau : Le LLM comme moteur cognitif
@@ -298,7 +298,7 @@ graph TD
 </div>
 
 ---
-layout: two-cols
+layout: two-cols-header
 ---
 
 # 7. Le But : Cadrage et Décomposition de la tâche

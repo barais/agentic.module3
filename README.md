@@ -1,9 +1,8 @@
-### MODULE 2 — Introduction à l'agentique
-1. **Du chatbot à l'agent** — la différence fondamentale : générer du texte vs *agir*
-2. **Définition d'un agent IA** — « un outil qui intéragir avec un LLM et qui appelle des outils dans une boucle pour atteindre un but »
-3. **Historique et panorama** — de l'IA symbolique aux systèmes agentiques modernes
-4. **Pourquoi l'agentique maintenant ?** — GPT-4, function calling, frameworks, MCP
-5. **Typologie** — agent simple, agent orchestrateur, systèmes multi-agents, workflow vs agent autonome
-6. **Quand utiliser un agent ? (et quand ne pas le faire)** — arbre de décision : LLM seul / RAG / workflow / agent
+### MODULE 3 — Anatomie d'un agent
+> La brique « cerveau + sens + mains + mémoire ».
 
-> Message = Rien de très nouveau, un orchestrateur pour atteindre un but qui peut utiliser des LLMs mais aussi des outils déterministes. 
+1. **Le cerveau : le LLM** — raisonnement et prise de décision
+2. **Les sens et mains : les outils** — appels d'API, recherche web, exécution de code, bases de données
+3. **La mémoire** — mémoire de travail (contexte), mémoire à long terme (RAG vectorielle, mémoires externes)
+4. **Le but (la tâche)** — définition de l'objectif, répartition en sous-tâches
+5. **La boucle d'interaction** — perceive → reason → act → observe

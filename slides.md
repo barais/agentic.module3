@@ -606,4 +606,4 @@ class: text-center
 # Fin du Module 3
 ### Place aux échanges & questions !
 
-En route vers [les 4 patrons de conception agentiques 🚀}(https://olivier.barais.fr/agentic.module4/)
+En route vers [les 4 patrons de conception agentiques 🚀](https://olivier.barais.fr/agentic.module4/)
